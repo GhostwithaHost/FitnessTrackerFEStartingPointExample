@@ -22,18 +22,6 @@ const {isLoggedIn, loggedInUsername} = props;
                 <a className="navtext">HOME</a>
             </Link>
 
-            <Link to="/posts">
-                <a className="navtext">POSTS</a>
-            </Link>
-
-            {isLoggedIn ?
-                <Link to="/messages">
-                    <a className="navtext">MESSAGES</a>
-                </Link>
-                :
-                null
-            }
-
             {isLoggedIn ?
                 <Link to="/">
                     <a className="navtext"

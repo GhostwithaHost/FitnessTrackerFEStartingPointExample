@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/GhostwithaHost/FitnessTrackerFEStartingPointExample/static/js/main.f64d7e30.js",
+    "index.html": "/GhostwithaHost/FitnessTrackerFEStartingPointExample/index.html",
+    "main.f64d7e30.js.map": "/GhostwithaHost/FitnessTrackerFEStartingPointExample/static/js/main.f64d7e30.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f64d7e30.js"
+  ]
+}
